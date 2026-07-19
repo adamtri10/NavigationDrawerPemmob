@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_drawer">#FFFFFF</color>
+    <color name="background_main">#F5F5F5</color>
+    <color name="background_screen">#FAFAFA</color>
+    <color name="content_card_background">#FFFFFF</color>
+    <color name="content_card_border">#E0E0E0</color>
+    <color name="content_text">#333333</color>
+    <color name="drawer_divider">#E0E0E0</color>
+    <color name="drawer_header_background">#1B5E20</color>
+    <color name="drawer_header_text">#FFFFFF</color>
+    <color name="drawer_item_selected">#E8F5E9</color>
+    <color name="drawer_item_selected_text">#2E7D32</color>
+    <color name="drawer_item_unselected_text">#424242</color>
+    <color name="icon_active">#1565C0</color>
+    <color name="icon_inactive">#9E9E9E</color>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_light">#81C784</color>
+    <color name="secondary">#FF8F00</color>
+    <color name="secondary_dark">#FF6F00</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="top_bar_background">#2E7D32</color>
+    <color name="top_bar_content">#FFFFFF</color>
+    <string name="app_name">Navigation Drawer App</string>
+    <string name="close_drawer">Tutup Menu</string>
+    <string name="content_screen_1">Ini adalah area konten Screen 1</string>
+    <string name="content_screen_2">Ini adalah area konten Screen 2</string>
+    <string name="content_screen_3">Ini adalah area konten Screen 3</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Buka Menu</string>
+    <string name="screen_1">Screen 1</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="screen_3">Screen 3</string>
+    <style name="Theme.NavDrawerApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
