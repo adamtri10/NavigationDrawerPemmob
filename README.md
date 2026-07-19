@@ -89,4 +89,66 @@ di `Color.kt` untuk penggunaan di Compose.
 
 ---
 
-Copyright Disiapkan oleh Kukuh Yudhistiro - 2026
+<h1 align="center">📱 Tampilan Aplikasi</h1>
+
+<h2>📸 Screenshot Aplikasi</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Screen 1</b>
+    </td>
+    <td align="center">
+      <b>Screen 2</b>
+    </td>
+    <td align="center">
+      <b>Screen 3</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="Screen%201.jpeg" width="250">
+    </td>
+    <td align="center">
+      <img src="Screen%202.jpeg" width="250">
+    </td>
+    <td align="center">
+      <img src="Screen%203.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      Tampilan screen pertama aplikasi.
+    </td>
+    <td align="center">
+      Tampilan screen kedua aplikasi.
+    </td>
+    <td align="center">
+      Tampilan screen ketiga aplikasi.
+    </td>
+  </tr>
+</table>
+
+<h2>🧭 Navigation</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Bilah Navigation</b>
+    </td>
+    <td align="center">
+      <b>Menu Utama</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="Bilah%20Navigation.jpeg" width="250">
+    </td>
+    <td align="center">
+      <img src="Menu%20utama.jpeg" width="250">
+    </td>
+  </tr>
+</table>
